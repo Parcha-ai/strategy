@@ -1,0 +1,204 @@
+id: pdf-parcha-board-meeting-july-2025-20250803
+title: Parcha Board Meeting July 2025
+type: document
+tags:
+- product-strategy
+- financial-planning
+- user-research
+- technical
+- risk-assessment
+- growth-strategy
+- technical-architecture
+- competitive-analysis
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: medium
+confidence: high
+metadata:
+  source: pdf
+  extraction_method: automated
+  file_name: Parcha Board Meeting July 2025.pdf
+  file_size: 1259466
+  extraction_date: '2025-08-03T22:20:41.483509'
+  page_count: 55
+structure:
+  sections:
+  - title: How to make the most of this board memo
+    line_start: 2
+    line_end: 2
+    preview: ''
+  - title: 1. R ead every page prior to the board meeting tomorrow.
+    line_start: 3
+    line_end: 3
+    preview: ''
+  - title: 2. A dd comments anywhere you have questions or clarifications.
+    line_start: 4
+    line_end: 11
+    preview: "3. A dd topics to the Topics For Discussion section at the bottom of\
+      \ each page if there\u2019s a specific item you want to discuss at the board\
+      \ meeting. KPIs"
+  - title: ARR
+    line_start: 12
+    line_end: 106
+    preview: 2,000k $$$111,,,777111000,,,111888000...000000 1,750k
+  - title: Bottom of funnel
+    line_start: 107
+    line_end: 115
+    preview: "\u2022 Lack of urgency: IG had a clear need and urgency driving them\
+      \ to push for a pilot to be done quickly but most of the other prospects at\
+      \ the pilot phase lacked that same urgency e.g. Worldpay went through multiple\
+      \ successful pilots but we\u2019re still in the vendor due diligence phase for\
+      \ first use case."
+  - title: Middle of funnel
+    line_start: 116
+    line_end: 141
+    preview: "\u2022 Lack of urgency: We completed 50+ demos in Q3 but none lead to\
+      \ pilots in the quarter. Despite initial interest in Parcha, we didn\u2019t\
+      \ see that convert into setting up pilots. \u2022 Lack of engagement: We would\
+      \ often follow-up with customers 5-10 times and not receive any response."
+  - title: We feel compelled to make drastic changes if we want the company to succeed
+    line_start: 142
+    line_end: 199
+    preview: "\u2022 Cut burn from ~$250K to $175K to extend runway \u2022 Move all\
+      \ infra to Northflank to reduce compute resources \u2022 Freeze all hiring (now\
+      \ AJ, Miguel, 2 Eng, 1 designer FTEs plus 2 contractors)"
+  - title: "1. Double usage to \u2265 50K reviews/month"
+    line_start: 200
+    line_end: 200
+    preview: ''
+  - title: 2. Diversify volume across customers and use cases
+    line_start: 201
+    line_end: 201
+    preview: ''
+  - title: 3. Rebuild trust with Compliance buyers
+    line_start: 202
+    line_end: 202
+    preview: ''
+  - title: 4. Reduce burn to $175K/month and extend runway to ~15 months
+    line_start: 203
+    line_end: 208
+    preview: "5. Prove Agent Hub as a scalable PLG channel by hitting 50 activated\
+      \ workspaces and 5K monthly reviews from start-ups \U0001F4A1 Strategy Overview\
+      \ We will execute a three-part strategy to grow faster, diversify smarter, and\
+      \ operate leaner:"
+  - title: "1. Go DEEP on trust Accelerate existing \u2022 Launch Compliance Trust\
+      \ Bundle +15\u201320K"
+    line_start: 209
+    line_end: 214
+    preview: "enterprise and mid- (GDPR brief, model-governance paper, reviews/month\
+      \ market deals SOC 2)\u2022 Book ACAMS Innovation Session + booth\u2022 Publish\
+      \ 3 Compliance case"
+  - title: "2. Go BROAD with Prove demand in \u2022 Launch 3 startup-focused +5K reviews/month"
+    line_start: 215
+    line_end: 257
+    preview: "Agent Hub fast-moving adjacent experiments:\u2022 Vendor Due Diligence\
+      \ (Aug from \u2265 30 activated use cases 12)\u2022 Real-Estate AML (Aug 26)\u2022\
+      \ Agent Hub signups Investment-Adviser screening (Sep 9)\u2022"
+  - title: Each test includes
+    line_start: 258
+    line_end: 303
+    preview: "\u2022 1-page ICP + pain points \u2022 Clay outbound (200 enriched leads)\
+      \ \u2022 Landing page, Agent template"
+  - title: '1. Dual-track vs deep-only:'
+    line_start: 304
+    line_end: 306
+    preview: "2. Are we aligned on continuing 3 Agent Hub experiments in parallel\
+      \ with Compliance trust work (\u2264 20% GTM bandwidth), or should we pause\
+      \ experiments to focus fully on enterprise?"
+  - title: '3. PLG experiment gate:'
+    line_start: 307
+    line_end: 309
+    preview: "4. Is \u2265 5 new Agent Hub signups in 30 days a strong enough success\
+      \ threshold? Should we tighten, loosen, or layer on revenue or usage metrics?"
+  - title: '5. Next trust credential:'
+    line_start: 310
+    line_end: 626
+    preview: 6. After the Compliance Trust Bundle, should we fund ISO 27001 prep now,
+      or wait for explicit customer demand? Discussion / Notes Topics for Discussion
+  - title: 1. AJ to send Steve name and title of JPMC contact
+    line_start: 627
+    line_end: 627
+    preview: ''
+  - title: 2. Steve to intro us to PR team Kindred uses for Parcha 2.0 launch
+    line_start: 628
+    line_end: 630
+    preview: 3. Think about how to communicate Parcha 2.0 at a higher business case
+      level, not the deep technical level. Lead with business impact, strategy, broad
+      appeal.
+  - title: '4. For design hire:'
+    line_start: 631
+    line_end: 633
+    preview: a. Check out Paraform (system for sourcing for agency recruiters) b.
+      Ask designers in network for referrals
+  - title: '5. Next steps hiring:'
+    line_start: 634
+    line_end: 638
+    preview: a. More behavioral questions in interview b. Need to be willing to pay
+      more? c. Consider Rocket
+  key_points:
+  - "The market may not be ready yet: It\u2019s possible that we were lucky with a\
+    \ few enterprise customers, but most compliance"
+  - 'Compliance is not a high enough priority: Improving compliance efficiency is
+    just not as high a priority as driving growth.'
+  - "Compliance\u2014the true buyer\u2014is risk-averse, slow to act, and demands\
+    \ high trust early, yet we have historically engaged"
+  entities:
+    companies:
+    - Cashfree
+    - Winning
+    - BlindPay
+    - Think
+    - RevenueCat
+    - Recently Added
+    - Citi
+    - Alloy
+    - Deals
+    - Forecasted Value
+    products: []
+    technologies:
+    - our AI
+    - adopt AI
+    - 'c
+
+      ai'
+    - 'is
+
+      ai'
+    - Pilot ai
+    - Notes AI
+    - Day AI
+    - 'cash
+
+      ai'
+    - 'com
+
+      ai'
+    - 'io
+
+      ai'
+    metrics: []
+    dates: []
+    people: []
+content: "Exec Summary AJ & Miguel How to make the most of this board memo: 1. R ead\
+  \ every page prior to the board meeting tomorrow. 2. A dd comments anywhere you\
+  \ have questions or clarifications. 3. A dd topics to the Topics For Discussion\
+  \ section at the bottom of each page if there\u2019s a specific item you want to\
+  \ discuss at the board meeting.  KPIs KPI: Topics for Discussion Done Topic Author\
+  \ Upvote Notes AI-generated action items No results from filter ARR 2,000k $$$111,,,777111000,,,111888000...000000\
+  \ 1...\n\nKey Points:\n- The market may not be ready yet: It\u2019s possible that\
+  \ we were lucky with a few enterprise customers, but most compliance\n- Compliance\
+  \ is not a high enough priority: Improving compliance efficiency is just not as\
+  \ high a priority as driving growth.\n- Compliance\u2014the true buyer\u2014is risk-averse,\
+  \ slow to act, and demands high trust early, yet we have historically engaged\n"
+summary: "Exec Summary AJ & Miguel How to make the most of this board memo: 1. R ead\
+  \ every page prior to the board meeting tomorrow. 2. A dd comments anywhere you\
+  \ have questions or clarifications. 3. A dd topics to the Topics For Discussion\
+  \ section at the bottom of each page if there\u2019s a specific item you want to\
+  \ discuss at the board meeting.  KPIs KPI: Topics for Discussion Done Topic Author\
+  \ Upvote Notes AI-generated action items No results from filter ARR 2,000k $$$111,,,777111000,,,111888000...000000\
+  \ 1...\n\nKey Points:\n- The market may not be ready yet: It\u2019s possible that\
+  \ we were lucky with a few enterprise customers, but most compliance\n- Compliance\
+  \ is not a high enough priority: Improving compliance efficiency is just not as\
+  \ high a priority as driving growth.\n- Compliance\u2014the true buyer\u2014is risk-averse,\
+  \ slow to act, and demands high trust early, yet we have historically engaged\n"
+content_file: sources/pdfs/pdf-parcha-board-meeting-july-2025-20250803_content.md

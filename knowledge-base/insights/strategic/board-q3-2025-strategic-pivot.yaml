@@ -1,0 +1,104 @@
+id: board-q3-2025-strategic-pivot
+title: "Q3 2025 Board Meeting - Major Strategic Pivot"
+type: insight
+tags: [strategic-pivot, board-meeting, crisis-response, plg, burn-reduction]
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: critical
+confidence: verified
+metadata:
+  source: board-memo-july-2025
+  meeting_date: July 2025
+  decision_type: strategic-pivot
+relationships:
+  - responds-to: growth-crisis
+  - enables: runway-extension
+  - implements: dual-track-strategy
+
+content: |
+  ## Crisis Context
+  
+  ### Key Metrics (Q2 2025 Actuals vs Goals)
+  - **ARR**: $987,803 (Goal: $2M) - MISSED by 50%
+  - **Monthly Reviews**: 22,777 (Goal: 50K) - MISSED by 54%
+  - **Paying Customers**: 7 (Goal: 20) - MISSED by 65%
+  - **Burn Rate**: $234,742/month
+  - **Runway**: 13 months (with flat growth → 9 months by Q3 end)
+  
+  ### Critical Problems Identified
+  
+  1. **Coinbase Concentration Risk**:
+     - >50% of revenue from single customer
+     - $1.5M expansion paused due to data breach priorities
+     - Contract renewal risk in November
+  
+  2. **Sales Funnel Breakdown**:
+     - Only 1 new deal closed in Q2 (IG) despite 50+ demos
+     - Outbound campaign: 400 contacts → 0 demos
+     - Demo to pilot conversion collapsed
+  
+  3. **Market Readiness Questions**:
+     - "Compliance officers not ready to adopt AI"
+     - Compliance viewed as low priority vs growth
+     - Risk-averse buyers require high trust early
+  
+  ## Three-Part Strategic Pivot
+  
+  ### 1. GO DEEP on Trust (Enterprise)
+  **Objective**: Rebuild compliance buyer confidence
+  
+  **Initiatives**:
+  - Launch Compliance Trust Bundle (GDPR brief, model governance, SOC 2)
+  - Book ACAMS Innovation Session + booth
+  - Publish 3 compliance case studies
+  - **Critical Change**: Stop free pilots → Require $10K "Assurance Pilot"
+  
+  **Target Impact**: +15-20K reviews/month
+  
+  ### 2. GO BROAD with Agent Hub (PLG)
+  **Objective**: Test adjacent use cases for product-market fit
+  
+  **Rapid Experiments** (30-day gates):
+  - Vendor Due Diligence (Aug 12)
+  - Real Estate AML (Aug 26)
+  - Investment Adviser Screening (Sep 9)
+  
+  **Success Gate**: ≥5 signups in 30 days per experiment
+  **Q3 Target**: 30 activated workspaces → 5K reviews/month
+  
+  ### 3. BURN REDUCTION
+  **Objective**: Extend runway to 15+ months
+  
+  **Actions**:
+  - Cut burn from $250K → $175K/month
+  - Don't backfill engineer ($16K/month)
+  - Terminate Head of Revenue ($14.6K/month)
+  - Cut founder salaries 25% ($10K/month)
+  - Migrate to Northflank (50% COGS reduction = $32.5K/month)
+  - Freeze all hiring
+  
+  **Total Savings**: $73.1K/month
+  
+  ## Agent Hub Early Success
+  - **2 weeks post-launch**: 22 companies tried Parcha
+  - More trials than total pilots in company history
+  - Notable signups: Stablesea (Series A crypto), Veriff, UIPath
+  
+  ## Board Decisions & Guidance
+  
+  ### Key Discussion Points:
+  1. **Dual-track Strategy**: Continue 3 Agent Hub experiments with ≤20% GTM bandwidth
+  2. **PLG Gate Metrics**: ≥5 signups/30 days threshold confirmed
+  3. **Trust Credentials**: Delay ISO 27001 until customer demand
+  4. **Hiring Strategy**: "Hire less, pay more" + behavioral interviews
+  
+  ### Action Items:
+  - AJ to connect with JPMC contact via Steve
+  - PR team intro for Parcha 2.0 launch
+  - Reframe messaging: business impact over technical depth
+  - Use Paraform for design hire sourcing
+  
+  ## Competitive Intelligence
+  - **Greenlite**: Rumored $10M CARR at Series A (May)
+  - **Won**: IG bakeoff (9/10 accuracy vs Greenlite's 4/10)
+  - **Lost**: Multiple deals to legacy vendors due to trust gap

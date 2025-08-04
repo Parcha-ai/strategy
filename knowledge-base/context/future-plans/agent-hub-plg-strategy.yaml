@@ -1,0 +1,124 @@
+id: agent-hub-plg-strategy
+title: "Agent Hub PLG Strategy - Diversification Play"
+type: analysis
+tags: [plg, agent-hub, product-led-growth, diversification, experimentation]
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: critical
+confidence: high
+metadata:
+  source: board-memo-july-2025
+  launch_date: July 2025
+relationships:
+  - diversifies: revenue-streams
+  - reduces: enterprise-dependency
+  - enables: rapid-experimentation
+
+content: |
+  ## Agent Hub Overview
+  
+  ### Launch Performance (2 weeks)
+  - **Companies Tried**: 22
+  - **Context**: More trials than total pilots in company history
+  - **Notable Users**: 
+    - Stablesea (Series A crypto)
+    - Veriff (compliance vendor exploring partnership)
+    - UIPath (vendor risk + customer onboarding)
+  
+  ### Strategic Rationale
+  1. **Risk Mitigation**: Reduce dependence on enterprise deals
+  2. **Market Validation**: Test adjacent use cases quickly
+  3. **Revenue Diversification**: Target startups and mid-market
+  4. **Lower CAC**: Self-serve reduces sales costs
+  
+  ## Three Experiment Strategy
+  
+  ### Experiment 1: Vendor Due Diligence
+  - **Launch**: August 12, 2025
+  - **ICP**: Companies managing vendor risk
+  - **Pain Point**: Manual vendor assessments
+  - **Success Gate**: ≥5 signups in 30 days
+  
+  ### Experiment 2: Real Estate AML
+  - **Launch**: August 26, 2025
+  - **ICP**: Real estate platforms/brokers
+  - **Pain Point**: AML compliance for property transactions
+  - **Success Gate**: ≥5 signups in 30 days
+  
+  ### Experiment 3: Investment Adviser Screening
+  - **Launch**: September 9, 2025
+  - **ICP**: RIAs and wealth management
+  - **Pain Point**: Adviser background checks
+  - **Success Gate**: ≥5 signups in 30 days
+  
+  ## Execution Framework
+  
+  ### Per Experiment Package
+  1. **Research**: 1-page ICP + pain points
+  2. **Outbound**: Clay campaign (200 enriched leads)
+  3. **Product**: Landing page + Agent template
+  4. **Nurture**: 3-email sequence
+  5. **Decision**: Scale if gate hit, kill otherwise
+  
+  ### Resource Allocation
+  - **GTM Bandwidth**: ≤20% (rest on enterprise)
+  - **Engineering**: GTM Engineer assigned
+  - **Budget**: Included in reallocated GTM spend
+  
+  ## Success Metrics
+  
+  ### Q3 Targets
+  - **Activated Workspaces**: ≥30
+  - **Monthly Reviews**: ≥5K from startups
+  - **Aggregate Signups**: ≥50
+  
+  ### Leading Indicators
+  - Time to first agent creation
+  - Activation rate (signup → first review)
+  - Review volume per workspace
+  - Retention at 30 days
+  
+  ## Product Capabilities
+  
+  ### Self-Serve Features
+  - Agent builder interface
+  - Template library
+  - Sandbox environment
+  - API documentation
+  - Stripe billing integration
+  
+  ### Key Differentiators
+  - No implementation required
+  - Start testing in minutes
+  - Pay-as-you-go pricing
+  - Multiple use case support
+  
+  ## Partnership Opportunities
+  
+  ### Emerging Patterns
+  - **Compliance Vendors**: Veriff, Sumsub, TRM Labs exploring partnerships
+  - **Referral Success**: Multiple Alloy referrals converting
+  - **Advisor Networks**: FSVector partnership for client referrals
+  
+  ### Integration Strategy
+  - Position as complement, not replacement
+  - Focus on AI enhancement layer
+  - White-label opportunities
+  
+  ## Risk Mitigation
+  
+  ### Cannibalization Risk
+  - Different buyer persona (product vs compliance)
+  - Lower ACV but higher volume
+  - Faster sales cycle
+  
+  ### Quality Control
+  - Automated accuracy monitoring
+  - Usage-based pricing aligns incentives
+  - Template agents reduce variability
+  
+  ### Board Guidance
+  - Approved dual-track approach
+  - ≤20% GTM resource cap
+  - Clear go/no-go gates
+  - Monthly progress reviews

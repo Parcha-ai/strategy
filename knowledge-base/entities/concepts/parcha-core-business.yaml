@@ -1,0 +1,60 @@
+id: parcha-core-business
+title: "Parcha Core Business Model and Value Proposition"
+type: concept
+tags: [business-model, value-proposition, compliance, ai-reasoning, kyb, kyc, fintech]
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: critical
+confidence: verified
+metadata:
+  source: investor-updates
+  created: 2025-08-03
+  updated: 2025-08-03
+relationships:
+  - enables: automated-compliance
+  - serves: b2b-fintech
+  - competes-with: greenlite
+
+content: |
+  ## Overview
+  Parcha accelerates compliance with AI agents — handling due diligence, AML screening, and document verification. Fintechs and banks use the platform to reduce onboarding time and boost operational efficiency without increasing risk.
+  
+  ## Core Use Cases
+  
+  ### 1. Automated Document Validation
+  - **Problem**: Documents vary by jurisdiction and KYB processes
+  - **Solution**: AI-powered validation across multiple document types
+  - **Differentiation**: No existing vendors solve this well
+  - **Target**: B2B fintechs onboarding businesses
+  
+  ### 2. Business and Individual Due Diligence
+  - **Business Due Diligence (KYB)**:
+    - Product/service analysis
+    - Industry classification
+    - Ownership structure verification
+    - Online presence validation
+  - **Individual Due Diligence (KYC)**:
+    - Source of funds verification
+    - Criminal background checks
+    - Geographical location verification
+  - **Current State**: Done very manually today
+  
+  ### 3. AML Screening
+  - **Problem**: Over 90% of alerts are false positives
+  - **Impact**: Massive review overhead during onboarding and transaction monitoring
+  - **Solution**: Parcha's AI reduces false positives by 90%
+  - **Coverage**: Adverse media, sanctions, watchlist, and PEP screening
+  
+  ## Business Metrics (May 2025)
+  - ARR: ~$910,000 (booked + realized)
+  - Monthly Reviews: ~30K
+  - Cash: $3,540,368
+  - Net Burn Rate: ~$278K
+  - Runway: ~13 months
+  
+  ## Key Customer Segments
+  - **Primary**: B2B Fintech experiencing strong growth (20%+ monthly)
+  - **Sweet Spot**: Companies serving SMBs (higher volume, harder to KYB)
+  - **Volume Threshold**: 2,000+ customers onboarding per month
+  - **Funding**: $10M+ raised, existing compliance/ops team
+  - **Geography**: Not limited to US (English operating language required)

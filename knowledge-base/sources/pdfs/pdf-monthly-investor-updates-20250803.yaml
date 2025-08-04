@@ -1,0 +1,567 @@
+id: pdf-monthly-investor-updates-20250803
+title: Monthly Investor Updates
+type: document
+tags:
+- metrics-driven
+- growth-strategy
+- financial-planning
+- competitive-analysis
+- user-research
+- technical
+- risk-assessment
+- product-strategy
+- technical-architecture
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: medium
+confidence: high
+metadata:
+  source: pdf
+  extraction_method: automated
+  file_name: Monthly Investor Updates.pdf
+  file_size: 8684081
+  extraction_date: '2025-08-03T22:14:52.875132'
+  page_count: 94
+structure:
+  sections:
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 24
+    line_end: 62
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI reduces\
+      \ false positives by 90%, speeding up the screening up the screening process\
+      \ of individuals and businesses."
+  - title: Please help us hire an awesome backend engineer and lead designer
+    line_start: 63
+    line_end: 66
+    preview: 'Backend / Systems Engineer 1. Share our Wellfound profile: Please share
+      our job posting for a Founding Backend Engineer with your networks: https://wellfound.com/jobs/3212297-founding-backend-engineer'
+  - title: '2. Help spread our technical content: We''ve published in-depth technical
+      articles that showcase our'
+    line_start: 67
+    line_end: 73
+    preview: "expertise. Please share these with potential customers and candidates:\
+      \ \u25E6 https://resources.parcha.com/aml-false-positives/ \u25E6 https://resources.parcha.com/a-smarter-approach-to-document-verification-2/"
+  - title: Customer intros
+    line_start: 74
+    line_end: 121
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers. You can see the latest\
+      \ list of target customers here. The ideal person to introduce us to is the\
+      \ product or"
+  - title: Please help us hire an awesome backend engineer and lead designer
+    line_start: 122
+    line_end: 150
+    preview: Miguel Rios-Berrios May 16th at 3:17 PM @AJ Asver update with designer?
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 151
+    line_end: 159
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI reduces\
+      \ false positives by 90%, speeding up the screening up the screening process\
+      \ of individuals and businesses."
+  - title: '2. Help spread our technical content: We''ve published in-depth technical
+      articles that showcase our'
+    line_start: 160
+    line_end: 163
+    preview: "expertise. Please share these with potential customers and candidates:\
+      \ \u25E6 https://resources.parcha.com/aml-false-positives/ \u25E6 https://resources.parcha.com/a-smarter-approach-to-document-verification-2/"
+  - title: '3. Customer introductions: We''re looking to connect with more B2B Fintech
+      companies experiencing'
+    line_start: 164
+    line_end: 170
+    preview: strong growth that are bottlenecked by KYB or KYC reviews. The ideal
+      contact for onboarding is the product or business owner, not the head of compliance.
+      Founding AE
+  - title: For both roles
+    line_start: 171
+    line_end: 174
+    preview: "\u2022 Startup experience. Ideally, previous experience as a founding\
+      \ engineer or early hire at a startup. \u2022 Based in SF and excited to work\
+      \ in our office 5 days a week."
+  - title: Customer intros
+    line_start: 175
+    line_end: 194
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers. You can see the latest\
+      \ list of target customers here. The ideal person to introduce us to is the\
+      \ product or"
+  - title: Highlights
+    line_start: 195
+    line_end: 208
+    preview: "\u2022 Coinbase Expansion Progress: We're in the final procurement stages\
+      \ of negotiating a seven-figure expansion with Coinbase, which will be a significant\
+      \ milestone toward increasing our ARR. Coinbase is finally doing its model evaluations,\
+      \ which is the last step toward going to production with them. This has"
+  - title: Lowlights
+    line_start: 209
+    line_end: 247
+    preview: "\u2022 Pipeline Velocity Issues: Our biggest challenge is that our pipeline\
+      \ across outbound, pilots, and closing contracts is moving too slowly, leading\
+      \ to multiple \"in progress\" or \"missed\" goals. \u2022 Pilot Integration\
+      \ timelines: It's taking multiple months for pilot customers to fully integrate\
+      \ before"
+  - title: Paxos
+    line_start: 248
+    line_end: 250
+    preview: "\u2022 I ntegration completed and testing taking place with live production\
+      \ data."
+  - title: Flex
+    line_start: 251
+    line_end: 253
+    preview: "\u2022 D elayed due to resourcing but picking back up next week."
+  - title: Mercury
+    line_start: 254
+    line_end: 282
+    preview: "\u2022 Stalledduetoengresourcesontheir March 2025 - April 2025 2 Goal\
+      \ Context"
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 283
+    line_end: 297
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI reduces\
+      \ false positives by 90%, speeding up the screening up the screening process\
+      \ of individuals and businesses."
+  - title: For both roles
+    line_start: 298
+    line_end: 300
+    preview: "\u2022 Startup experience. Ideally, previous experience as founding\
+      \ engineer or early hire at at a startup. \u2022 Based in SF and excited to\
+      \ work in our office 5 days a week."
+  - title: Customer intros
+    line_start: 301
+    line_end: 339
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers. You can see the latest\
+      \ list of target customers here. The ideal person to introduce us to is the\
+      \ product or"
+  - title: What we learned
+    line_start: 340
+    line_end: 396
+    preview: "\u25E6 Need for more rigorous production testing (implementing mandatory\
+      \ 100-case validation period) \u25E6 More investment in observability metrics\
+      \ and tooling \u25E6 Stricter code review requirements even for customer-specific\
+      \ branches"
+  - title: Flutterwave
+    line_start: 397
+    line_end: 399
+    preview: "\u2022 G et annual contract signed (delayed due to holidays) \u2022\
+      \ S cope additional integrations for Q1"
+  - title: Airwallex
+    line_start: 400
+    line_end: 401
+    preview: "\u2022 S upport production rollout"
+  - title: Pipe
+    line_start: 402
+    line_end: 406
+    preview: "\u2022 G et Order form signed (delayed due to holidays) \u2022 S upport\
+      \ Alloy integration Conversion: Start first 5 Q1 Pilots Worldpay:"
+  - title: Paxos
+    line_start: 407
+    line_end: 438
+    preview: "\u2022 S cope pilot for doc verification Flex \u2022 S cope pilot for\
+      \ KYB"
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 439
+    line_end: 453
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI reduces\
+      \ false positives by 90%, speeding up the screening up the screening process\
+      \ of individuals and businesses."
+  - title: For both roles
+    line_start: 454
+    line_end: 456
+    preview: "\u2022 Startup experience. Ideally, previous experience as founding\
+      \ engineer or early hire at at a startup. \u2022 Based in SF and excited to\
+      \ work in our office 5 days a week."
+  - title: Customer intros
+    line_start: 457
+    line_end: 520
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers. You can see the latest\
+      \ list of target customers here. The ideal person to introduce us to is the\
+      \ product or"
+  - title: Mercury
+    line_start: 521
+    line_end: 545
+    preview: "\u2022 T hey are working on integration FIS Capital Markets \u2022 S\
+      \ tarted docs pilot"
+  - title: Pipe
+    line_start: 546
+    line_end: 549
+    preview: "\u2022 C omplete Alloy integration contract \u2022 S upport Alloy integration\
+      \ for Business Due Diligence and AML"
+  - title: Airwallex
+    line_start: 550
+    line_end: 554
+    preview: "\u2022 F inalize Flash Check API and publish docs. \u2022 S upport integration\
+      \ Complete success criteria for at least 3 pilots Worldpay:"
+  - title: Paxos
+    line_start: 555
+    line_end: 556
+    preview: "\u2022 C omplete Phase 1 of docs pilot"
+  - title: Flex
+    line_start: 557
+    line_end: 558
+    preview: "\u2022 C omplete KYB pilot"
+  - title: Mercury
+    line_start: 559
+    line_end: 645
+    preview: "\u2022 C omplete docs pilot FIS Capital Markets \u2022 S tart pilot\
+      \ KYB docs pilot"
+  - title: Customer intros
+    line_start: 646
+    line_end: 756
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth (20% per month) ideally serving SMBs (higher volume,\
+      \ harder to KYB) with at least 2,000 customers onboarding per month, $10M+ in\
+      \ funding, already have a compliance / ops team. They don\u2019t have to be\
+      \ US"
+  - title: Customer intros
+    line_start: 757
+    line_end: 799
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth (20% per month) ideally serving SMBs (higher volume,\
+      \ harder to KYB). They don\u2019t have to be US based or have US customers but\
+      \ their business operating language needs to be english."
+  - title: Flutterwave shared this message
+    line_start: 800
+    line_end: 904
+    preview: "\u201CThe pilot is going great and it is wrapping up nicely. There are\
+      \ a few minor improvements left, but I am confident that with your team's"
+  - title: Customer intros
+    line_start: 905
+    line_end: 1040
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth (20% per month) ideally serving SMBs (higher volume,\
+      \ harder to KYB). They don\u2019t have to be US based or have US customers but\
+      \ their business operating language needs to be english."
+  - title: Customer intros
+    line_start: 1041
+    line_end: 1096
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth (20% per month) ideally serving SMBs (higher volume,\
+      \ harder to KYB). They don\u2019t have to be US based or have US customers but\
+      \ their business operating language needs to be english."
+  - title: Lots of feature improvements across the product
+    line_start: 1097
+    line_end: 1182
+    preview: AJ Asver Apr 4th, 2024 at 5:29 PM @Miguel Rios-Berrios Anything else?
+  - title: Customer intros
+    line_start: 1183
+    line_end: 1293
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth deally serving SMBs (higher volume, harder to KYB)\
+      \ that could be KYB or KYC. They don\u2019t have to be US based or have US customers\
+      \ but their business operating language needs to be english."
+  - title: Customer intros
+    line_start: 1294
+    line_end: 1372
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers but their business operating\
+      \ language needs to be english."
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 1373
+    line_end: 1427
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI can\
+      \ reduce false positives by 90%. \U0001F4C8 Key Metrics:"
+  - title: Customer intros
+    line_start: 1428
+    line_end: 1498
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers but their business operating\
+      \ language needs to be english."
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 1499
+    line_end: 1559
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI reduces\
+      \ false positives by 90%, speeding up the screening up the screening process\
+      \ of individuals and businesses."
+  - title: Known issues
+    line_start: 1560
+    line_end: 1567
+    preview: "\u2022 When you land into the report and it\u2019s still generating\
+      \ you see the audit log which has a lot going on. We\u2019re working on a new\
+      \ animation that shows each site being researched which will look much better.\
+      \ \u2022 Copy is still being finalized for all emails, login screen etc."
+  - title: Customer intros
+    line_start: 1568
+    line_end: 1645
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers but their business operating\
+      \ language needs to be english."
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 1646
+    line_end: 1659
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI reduces\
+      \ false positives by 90%, speeding up the screening up the screening process\
+      \ of individuals and businesses."
+  - title: Customer intros
+    line_start: 1660
+    line_end: 1841
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers but their business operating\
+      \ language needs to be english."
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 1842
+    line_end: 1855
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI reduces\
+      \ false positives by 90%, speeding up the screening up the screening process\
+      \ of individuals and businesses."
+  - title: Customer intros
+    line_start: 1856
+    line_end: 1964
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers but their business operating\
+      \ language needs to be english."
+  - title: API
+    line_start: 1965
+    line_end: 2032
+    preview: "Make doc verification checks dope: Done We shipped doc verification\
+      \ into production along with a new document viewer and faster \u2022 M ake document\
+      \ APIs reliable and fast (< 1"
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 2033
+    line_end: 2048
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI reduces\
+      \ false positives by 90%, speeding up the screening up the screening process\
+      \ of individuals and businesses."
+  - title: For both roles
+    line_start: 2049
+    line_end: 2051
+    preview: "\u2022 Startup experience. Ideally, previous experience as founding\
+      \ engineer or early hire at at a startup. \u2022 Based in SF and excited to\
+      \ work in our office 5 days a week."
+  - title: Customer intros
+    line_start: 2052
+    line_end: 2084
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers but their business operating\
+      \ language needs to be english."
+  - title: 1. Simplifying our workflows into simpler steps that utilize more cost-effective
+      LLMs.
+    line_start: 2085
+    line_end: 2135
+    preview: 2. Refining our prompts, enhancing our backtesting infrastructure, and
+      using novel techniques such as in- context learning to ensure that workflows
+      on these less expensive LLMs match the performance of our previous systems.
+  - title: Next steps
+    line_start: 2136
+    line_end: 2138
+    preview: 'We prioritized all the customers, pilots and potential pilots based
+      on priority by ARR, strategic importance and urgency. Based on that we came
+      up with the following prioritized goals to get us to $1M ARR:'
+  - title: 1. Ensure Coinbase production rollout is successful. We have to get this
+      right! ($500K ARR)
+    line_start: 2139
+    line_end: 2147
+    preview: '2. Hit success criteria for pilots currently live or going live this
+      month to close ~$500K ARR in the following: a. Coinbase: transaction alert open
+      source investigation - $500K+ b. Pipe: Strategic to maintaining momentum with
+      Alloy integration'
+  - title: 3. Finalize contracts for Coinbase and Flutterwave expansion
+    line_start: 2148
+    line_end: 2148
+    preview: ''
+  - title: 4. Secure $500K in additional pilots for December and early Q1.
+    line_start: 2149
+    line_end: 2247
+    preview: Goals October 2024 Lookback Goal Status Look back
+  - title: '3. AML Screening: Over 90% of alerts from adverse media, sanctions, watchlist
+      and PEP screening are'
+    line_start: 2248
+    line_end: 2263
+    preview: "false positive. This creates a massive review overhead for fintechs\
+      \ both during onboarding at when monitoring transactions. Parcha\u2019s AI reduces\
+      \ false positives by 90%, speeding up the screening up the screening process\
+      \ of individuals and businesses."
+  - title: For both roles
+    line_start: 2264
+    line_end: 2266
+    preview: "\u2022 Startup experience. Ideally, previous experience as founding\
+      \ engineer or early hire at at a startup. \u2022 Based in SF and excited to\
+      \ work in our office 5 days a week."
+  - title: Customer intros
+    line_start: 2267
+    line_end: 2310
+    preview: "We would love to speak to more fintech companies in our ICP: B2B Fintech\
+      \ experiencing strong growth that are bottlenecked by KYB or KYC reviews. They\
+      \ don\u2019t have to be US based or have US customers but their business operating\
+      \ language needs to be english."
+  - title: What we learned
+    line_start: 2311
+    line_end: 2361
+    preview: "\u25E6 Need for more rigorous production testing (implementing mandatory\
+      \ 100-case validation period) \u25E6 More investment in observability metrics\
+      \ and tooling \u25E6 Stricter code review requirements even for customer-specific\
+      \ branches"
+  - title: Flutterwave
+    line_start: 2362
+    line_end: 2364
+    preview: "\u2022 G et annual contract signed (delayed due to holidays) \u2022\
+      \ S cope additional integrations for Q1"
+  - title: Airwallex
+    line_start: 2365
+    line_end: 2366
+    preview: "\u2022 S upport production rollout"
+  - title: Pipe
+    line_start: 2367
+    line_end: 2371
+    preview: "\u2022 G et Order form signed (delayed due to holidays) \u2022 S upport\
+      \ Alloy integration Conversion: Start first 5 Q1 Pilots Worldpay:"
+  - title: Paxos
+    line_start: 2372
+    line_end: 2633
+    preview: "\u2022 S cope pilot for doc verification Flex \u2022 S cope pilot for\
+      \ KYB"
+  - title: "2 More Design Partner POC\u2019s at scoping We want to have two more design\
+      \ partners"
+    line_start: 2634
+    line_end: 2725
+    preview: "stage signed at the stage we\u2019re we are scoping a POC, with a goal\
+      \ of starting work on the next one soon after we ship Bridge."
+  - title: "2 More Design Partner POC\u2019s at scoping Done We have Brex and Tenet\
+      \ at scoping stage"
+    line_start: 2726
+    line_end: 2739
+    preview: "stage and have started DP with them! Founding AI Engineer fully onboarded\
+      \ Missed Had a couple of trials and weren\u2019t satisfied with quality of candidates\
+      \ and leverage from"
+  - title: '5 Design partners active: Our current focus is to get to 5 design partners'
+    line_start: 2740
+    line_end: 2840
+    preview: "by September with a variety of agents that use \u2022 P OC shipped for\
+      \ Brex different integrations."
+  - title: '5 Design partners active: Missed We are engaged with 5 design partners
+      but'
+    line_start: 2841
+    line_end: 2862
+    preview: "didn\u2019t ship a working agent to Tenet or Brex, \u2022 P OC shipped\
+      \ for Brex or get a product-ready agent for Bridge. We"
+  - title: 2 Paying customers Have commercial agreements in place with at
+    line_start: 2863
+    line_end: 2878
+    preview: least 2 customers. Hire 2 more engineers Backend (w/ AI experience) +
+      Frontend Cheers!
+  - title: Hired first engineer
+    line_start: 2879
+    line_end: 3006
+    preview: "Miguel Rios-Berrios Sep 4th, 2023 at 7:31 PM I\u2019d also mention we\
+      \ have a very strong pipeline for the other two roles and high conviction we\u2019\
+      ll fill these roles in the next couple of"
+  - title: 2 Paying customers Missed We have MSAs in place for one customer and
+    line_start: 3007
+    line_end: 3258
+    preview: are in the process of getting them in place for 3 more. Hire 2 more engineers
+      Missed We made 3 offers and one converted to a
+  key_points:
+  - "Competitive Landscape & Strategic Response: Greenlite is becoming a significant\
+    \ competitor - we\u2019re"
+  - 'Missed $1M ARR goal: Several factors contributed to missing our 2024 ARR target:'
+  - F IS Capital Markets
+  - Risk Operations Manager who is focused on reducing cost to onboard customers and
+    has
+  - Risk PM who is focused onboarding more customers, faster, more cost-effectively
+    (this was
+  - "We didn\u2019t land an opportunistic exec hire we were excited about: The opportunity\
+    \ came up last month"
+  - '3 more pilots: With go-to-market efforts ramping back up we signed up three new
+    pilots over the last'
+  - "Outbounding: we didn\u2019t hit our very aggressive goal of outbounding 500 leads\
+    \ for a few reasons:"
+  - 'FIS accelerator: We got admitted into the FIS accelerator which will be a great
+    opportunity to connect'
+  - C omplete Model risk requirements
+  - "Bank go-to-market not yet understood: We still haven\u2019t worked out how to\
+    \ successfully sell into large"
+  - "I mplement LLM 40% cost reduction \u2022 C ompleted all model risk requirements\
+    \ to"
+  - Considering first sales hire to help scale beyond tech-focused founder salesGoals
+  - 'Hiring: We had a goal of having offers out to one Jr eng, one Sr eng and a pipeline
+    for an Applied AI eng'
+  - N ext Fundraising milestone timing
+  - "Burn rate: Our burn rate increased this month despite our goal of ramping down\
+    \ contractors. Here\u2019s"
+  - 'Hiring progress: We missed our goal of onboarding an Applied AI engineer last
+    month. As we went'
+  - '5 Design partners: We set an ambitious goal of having 5 design partners engaged
+    by September and'
+  - 'Input vs output metrics: We focused way too much on output metrics when setting
+    our goals last'
+  - Dave Mort @ Propel for advice on pricing, product strategy and awesome swag.
+  entities:
+    companies:
+    - PM
+    - Startup
+    - Eric
+    - Joelle Kaufman
+    - Bridge
+    - Fin Capital
+    - Both Bancoli
+    - There
+    - SAAS
+    - Dmytro Kovalchuk
+    products: []
+    technologies:
+    - exploring AI
+    - to AI
+    - grade platform
+    - view AI
+    - devices system
+    - own AI
+    - using AI
+    - s AI
+    - for AI
+    - a system
+    metrics:
+    - 4 customers
+    - 2 customers
+    - 10 customers
+    - 000 customers
+    dates: []
+    people: []
+content: "Monthly Investor Updates  May 2025 Subject: Parcha Investor Update March\
+  \ 2025 Parcha Investors, It\u2019s been a busy couple of months at Parcha. We completed\
+  \ the MVP of our new self-serve onboarding flow which we demo\u2019d at Finovate\
+  \ last week to lots of positive feedback. We also finally ramped up production jobs\
+  \ with Coinbase and at signing stage of a $1.5M expansion (delayed due to recent\
+  \ Coinbase data breach news). Anu Gardiner also joined our team as our first GTM\
+  \ hire, organizing a sold-out dinn...\n\nKey Points:\n- Competitive Landscape &\
+  \ Strategic Response: Greenlite is becoming a significant competitor - we\u2019\
+  re\n- Missed $1M ARR goal: Several factors contributed to missing our 2024 ARR target:\n\
+  - F IS Capital Markets\n"
+summary: "Monthly Investor Updates  May 2025 Subject: Parcha Investor Update March\
+  \ 2025 Parcha Investors, It\u2019s been a busy couple of months at Parcha. We completed\
+  \ the MVP of our new self-serve onboarding flow which we demo\u2019d at Finovate\
+  \ last week to lots of positive feedback. We also finally ramped up production jobs\
+  \ with Coinbase and at signing stage of a $1.5M expansion (delayed due to recent\
+  \ Coinbase data breach news). Anu Gardiner also joined our team as our first GTM\
+  \ hire, organizing a sold-out dinn...\n\nKey Points:\n- Competitive Landscape &\
+  \ Strategic Response: Greenlite is becoming a significant competitor - we\u2019\
+  re\n- Missed $1M ARR goal: Several factors contributed to missing our 2024 ARR target:\n\
+  - F IS Capital Markets\n"
+content_file: sources/pdfs/pdf-monthly-investor-updates-20250803_content.md

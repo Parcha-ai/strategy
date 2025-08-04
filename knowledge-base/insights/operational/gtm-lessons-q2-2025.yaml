@@ -1,0 +1,84 @@
+id: gtm-lessons-q2-2025
+title: "GTM Lessons from Q2 2025 - What Went Wrong"
+type: insight
+tags: [gtm-failure, sales-lessons, funnel-analysis, compliance-buyer]
+created: '2025-08-04'
+updated: '2025-08-04'
+importance: critical
+confidence: verified
+metadata:
+  source: q2-2025-retrospective
+  period: Q2-2025
+relationships:
+  - explains: sales-funnel-breakdown-analysis
+  - drives: q3-2025-strategy-execution
+
+content: |
+  ## Q2 2025 GTM Failure Analysis
+  
+  ### Top of Funnel - Complete Failure
+  - **Campaign**: 40 fintechs, 400 contacts via email/LinkedIn
+  - **Result**: 0 demos booked
+  - **Root Cause**: Messaging targeted Product/Eng, not Compliance
+  
+  ### Middle of Funnel - Engagement Collapse  
+  - **Activity**: 50+ demos completed
+  - **Result**: 0 new pilots started in Q2
+  - **Follow-up Pattern**: 5-10 attempts with no response
+  - **Root Cause**: No urgency, wrong stakeholders engaged
+  
+  ### Bottom of Funnel - Pilot Failures
+  **IG**: Only success - closed due to clear urgency
+  **Worldpay**: Multiple successful pilots but stuck in vendor diligence
+  **Mercury/Synctera/Flex**: Pilots stalled due to internal priority shifts
+  **Paxos**: Deal killed at contract by Compliance after pilot ($10K deal)
+  
+  ## Key Learning: Compliance Buy-in Timing
+  
+  ### The Fatal Flaw
+  - We treated Product/Eng as champion/driver
+  - We treated Compliance as approver
+  - **Reality**: Compliance is the ECONOMIC BUYER
+  
+  ### Evidence
+  - Coinbase: Requirements changed when Compliance finally engaged
+  - Paxos: Compliance veto killed deal after successful pilot
+  - MoneyGram: Only worked because we started with Chief Compliance Officer
+  
+  ## Three Root Causes Identified
+  
+  ### 1. Market Readiness
+  - Hypothesis: "Lucky with early customers, most not ready for AI"
+  - Counter-evidence: Greenlite at $10M CARR
+  - Conclusion: Market exists but approach is wrong
+  
+  ### 2. Wrong Buyer Sequencing
+  - Previous: Product → Pilot → Compliance approval
+  - Needed: Compliance → Trust → Pilot → Expand
+  
+  ### 3. Low Priority
+  - "Compliance efficiency not high priority vs growth"
+  - Most concerning as largely out of our control
+  - Requires reframing value proposition
+  
+  ## Competitive Intelligence Gap
+  
+  ### Greenlite Success Factors
+  - Heavy investment in ACAMS presence
+  - Constant PR and thought leadership
+  - Compliance-first messaging
+  - Trust signals everywhere
+  
+  ### Our Gaps
+  - No compliance-focused content
+  - No presence at compliance events
+  - Product-centric messaging
+  - Late compliance engagement
+  
+  ## Q3 Corrections
+  
+  1. **Compliance Trust Bundle** - GDPR, model governance, SOC 2
+  2. **ACAMS Sponsorship** - Meet compliance where they gather
+  3. **No Free Pilots** - $10K minimum shows seriousness
+  4. **Compliance-First Outreach** - Target Chief Compliance Officers
+  5. **Case Studies** - Build social proof for risk-averse buyers

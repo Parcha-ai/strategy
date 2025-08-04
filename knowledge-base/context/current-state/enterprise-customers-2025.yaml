@@ -1,0 +1,88 @@
+id: enterprise-customers-2025
+title: "Enterprise Customer Status and Pipeline"
+type: analysis
+tags: [customers, enterprise, revenue, pipeline, coinbase, flutterwave]
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: critical
+confidence: high
+metadata:
+  source: investor-updates
+  as_of: May 2025
+relationships:
+  - drives: revenue-growth
+  - validates: product-market-fit
+
+content: |
+  ## Key Enterprise Customers
+  
+  ### Coinbase (Flagship Account)
+  - **Status**: In production as of May 2025
+  - **Contract Value**: ~$1.5M expansion in negotiation (seven-figure)
+  - **Use Cases**: 
+    - Transaction alert open source investigation
+    - Adverse media screening (clearing 90%+ false positives)
+  - **Journey**: POC → Pilot → Production (multi-month cycle)
+  - **Challenges**: 
+    - Delayed due to data breach news
+    - Complex model governance requirements
+    - Integration changes required mid-pilot
+  
+  ### Flutterwave (Largest by Volume Potential)
+  - **Status**: Active, expanding use cases
+  - **Current Usage**: 3,000 reviews from backlog (July 2024)
+  - **Expansion Areas**:
+    - Enhanced business due diligence
+    - Visa merchant compliance
+    - Document verification
+    - Adverse media alerts
+  - **Revenue Potential**: 4X current ARR
+  
+  ### Airwallex
+  - **Status**: Scaling usage, production rollout
+  - **Products**: Flash Check API
+  - **Growth**: Contributing to ARR ramp
+  
+  ### Other Active Customers
+  - **Bancoli**: Annual contract, using doc remediation
+  - **Bridge**: Reduced usage after analyst transition
+  - **FVBank**: Converted to paid (July 2024)
+  
+  ## Enterprise Pipeline (May 2025)
+  
+  ### Named Accounts
+  - Worldpay
+  - Moneygram
+  - IG Group
+  - Monzo
+  - JPMorgan Chase
+  - Uber
+  - Moonpay
+  - Dwolla
+  - Nova Credit
+  
+  ### Pilots in Progress
+  - **Paxos**: Document verification pilot
+  - **Worldpay**: Multiple workstreams
+  - **Mercury**: Stalled due to engineering resources
+  - **Pipe**: Strategic for Alloy integration
+  - **Ramp**: POC for document validation (multimodal)
+  - **Brex**: RFP process for AI onboarding
+  
+  ## Customer Expansion Insights
+  
+  ### Successful Expansion Patterns
+  - Start with one use case, expand to adjacent workflows
+  - Customer-driven expansion (Flutterwave bringing new use cases)
+  - Solving false positive problems opens larger opportunities
+  
+  ### Integration Partnerships
+  - **Alloy**: Strategic partnership potential via Pipe
+  - **Live Oak Bank**: Gateway to embedded finance customers
+  - **FIS Accelerator**: Access to banking network
+  
+  ## Revenue Composition
+  - **Realized ARR**: ~$910K (May 2025)
+  - **Contracted not ramped**: ~$1.5M
+  - **Pipeline**: ~$1.5M+ across pilots
+  - **Expansion potential**: 4X from existing customers

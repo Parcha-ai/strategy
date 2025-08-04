@@ -1,0 +1,111 @@
+id: sales-funnel-breakdown-analysis
+title: "Sales Funnel Breakdown - Root Cause Analysis"
+type: insight
+tags: [sales-analysis, funnel-metrics, conversion-failure, gtm-strategy]
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: critical
+confidence: high
+metadata:
+  source: board-memo-july-2025
+  period: Q2-2025
+relationships:
+  - explains: revenue-miss
+  - drives: strategic-pivot
+
+content: |
+  ## Funnel Performance Breakdown
+  
+  ### Top of Funnel Failure
+  - **Outbound Campaign**: 40 fintechs, 400 contacts
+  - **Result**: 0 demos booked
+  - **Response Rate**: ~0%
+  - **Key Issue**: Complete lack of market response
+  
+  ### Middle of Funnel Issues
+  - **Demos Completed**: 50+ in Q2
+  - **Demo to Pilot Conversion**: 0 in quarter
+  - **Historical Target**: 20-30% conversion
+  - **Actual**: <2% conversion
+  - **Follow-up Pattern**: 5-10 attempts with no response
+  
+  ### Bottom of Funnel Problems
+  
+  #### Pilot Outcomes
+  1. **IG**: Successfully closed (only win)
+     - Had clear need and urgency
+     - Fast pilot execution
+  
+  2. **Worldpay**: Multiple successful pilots but stuck in vendor diligence
+     - Lack of urgency despite success
+  
+  3. **Mercury, Synctera, Flex**: Pilots stalled
+     - Internal priority changes
+     - Resource constraints
+  
+  4. **Paxos**: Deal killed at contract stage
+     - Compliance vetoed after pilot
+     - Low deal size ($10K)
+     - Multiple PM changes during pilot
+  
+  ## Root Cause Analysis
+  
+  ### 1. Market Readiness Hypothesis
+  - **Theory**: "Lucky with early enterprise customers, but most compliance officers not ready for AI"
+  - **Counter-evidence**: Greenlite rumored at $10M CARR
+  - **Conclusion**: Market exists but approach is wrong
+  
+  ### 2. Buyer Engagement Timing
+  - **Problem**: Compliance engaged too late in process
+  - **Previous Approach**: 
+    - Product/Eng as champion
+    - Compliance as approver
+  - **Reality**: Compliance is economic buyer
+  - **Impact**: Deals killed at final stage
+  
+  ### 3. Priority Mismatch
+  - **Finding**: "Compliance efficiency not high priority vs growth"
+  - **Implication**: Must reframe value proposition
+  - **Market Evidence**: Buyers exist but need different messaging
+  
+  ## Competitive Losses
+  
+  ### Direct Losses
+  - **Cashfree**: Lost in pipeline
+  - **Brex**: RFP outcome pending
+  - **Multiple**: Lost to "legacy vendors"
+  
+  ### Win Analysis
+  - **IG Bakeoff**: Won vs Greenlite
+    - Parcha accuracy: 9/10
+    - Greenlite accuracy: 4/10
+    - Better product experience cited
+  
+  ## Sales Process Gaps Identified
+  
+  ### Discovery Issues
+  - Insufficient pain qualification
+  - Not understanding urgency drivers
+  - Missing compliance stakeholder early
+  
+  ### Demo Problems
+  - Too much demo, not enough discovery
+  - Technical focus vs business impact
+  - Self-serve friction too high
+  
+  ### Follow-up Failures
+  - Lack of systematic engagement
+  - No clear next steps defined
+  - Champion development weak
+  
+  ## Strategic Response
+  
+  ### Immediate Changes
+  1. **Stop Free Pilots**: $10K Assurance Pilot minimum
+  2. **Compliance-First Engagement**: Trust bundle approach
+  3. **Business Impact Messaging**: Less technical depth
+  
+  ### Channel Strategy Shift
+  - Direct enterprise: High-trust approach
+  - PLG motion: Fast-moving startups
+  - Partner referrals: Leverage Alloy success

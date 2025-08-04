@@ -1,0 +1,60 @@
+# Master Knowledge Base Index
+# Last Updated: 2025-08-04
+# Maintained by: Strategic Intelligence System
+
+version: 1.0
+schema_version: 1.0
+
+categories:
+  entities:
+    description: "Core business entities and concepts"
+    subcategories:
+      - concepts: "Strategic concepts and definitions"
+      - products: "Product knowledge and features"
+      - competitors: "Competitive intelligence"
+      - stakeholders: "Key people and organizations"
+  
+  insights:
+    description: "Extracted learnings and observations"
+    subcategories:
+      - technical: "Technical discoveries and patterns"
+      - strategic: "Strategic observations and opportunities"
+      - operational: "Process and operational insights"
+  
+  context:
+    description: "Contextual knowledge and background"
+    subcategories:
+      - historical: "Past decisions and their rationale"
+      - current-state: "Current system state and configuration"
+      - future-plans: "Roadmaps and strategic projections"
+
+semantic_tags:
+  - ai-reasoning
+  - architecture
+  - competitive-advantage
+  - user-experience
+  - performance
+  - security
+  - scalability
+  - integration
+  - market-analysis
+  - technical-debt
+  - kyb
+  - kyc
+  - compliance
+  - risk-assessment
+  - document-verification
+  - api-design
+  - agent-architecture
+
+importance_levels:
+  - critical: "Mission-critical knowledge"
+  - high: "Significant strategic importance"
+  - medium: "Useful operational knowledge"
+  - low: "Nice-to-have information"
+
+confidence_ratings:
+  - verified: "Confirmed through multiple sources"
+  - high: "Strong evidence supports this"
+  - medium: "Reasonable confidence"
+  - low: "Preliminary or unverified"

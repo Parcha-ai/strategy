@@ -1,0 +1,103 @@
+id: product-roadmap-2025
+title: "Product Strategy and Roadmap 2025"
+type: analysis
+tags: [product-strategy, roadmap, parcha-2.0, self-serve, plg]
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: critical
+confidence: high
+metadata:
+  source: investor-updates
+  planning_period: 2025
+relationships:
+  - addresses: competitive-threats
+  - enables: growth-strategy
+
+content: |
+  ## Parcha 2.0 - Self-Serve Platform
+  
+  ### Vision
+  Transform from high-touch enterprise sales to self-serve PLG motion to accelerate growth and compete effectively
+  
+  ### Key Features
+  - **Agent Builder Flow**: Customers can create custom compliance agents
+  - **Self-Serve Onboarding**: End-to-end with Stripe integration
+  - **KYC Support**: Expanding beyond KYB to capture B2C market
+  - **New Agent Dashboard**: Improved UX for agent management
+  
+  ### Timeline
+  - **MVP Demo**: Finovate (May 2025) - Generated 60 leads
+  - **Target Launch**: Early June 2025
+  
+  ### Strategic Rationale
+  - Reduce time to value for customers
+  - Lower customer acquisition costs
+  - Compete with Greenlite's market momentum
+  - Enable smaller deal sizes profitably
+  
+  ## Product Enhancement Priorities
+  
+  ### 1. Business Due Diligence (BDD) Upgrade
+  - **Driver**: Lost Rho deal to competitor
+  - **Enhancements**:
+    - Social media scraping
+    - Deeper web crawling
+    - Crunchbase integration
+    - Comprehensive report generation
+  - **Status**: Completed, Bancoli and Flutterwave eager to adopt
+  
+  ### 2. Document Intelligence Evolution
+  - **Multimodal Capabilities**:
+    - Visual verification (logos, seals, signatures)
+    - Reduced OCR dependency
+    - Fraud detection via Resistant.ai
+  - **Document Remediation API**:
+    - Automated collection workflow
+    - Think "Persona/Socure for business documents"
+  
+  ### 3. Platform Capabilities
+  - **Flash Check API**: Published for Airwallex
+  - **OpenCorporates Integration**: Business verification
+  - **Enhanced Adverse Media**: Better UX for article review
+  - **Document Summaries**: Multi-language support
+  
+  ## Use Case Expansion Strategy
+  
+  ### Current Focus Areas
+  1. **KYB Document Validation** (Core strength)
+  2. **Business Due Diligence** (Competitive parity achieved)
+  3. **AML/Adverse Media Screening** (90% false positive reduction)
+  
+  ### Expansion Opportunities
+  - **KYC Workflows**: Huge B2C market opportunity
+  - **Transaction Monitoring**: Natural extension of AML
+  - **Ongoing Monitoring**: Recurring revenue potential
+  
+  ## Go-to-Market Product Strategy
+  
+  ### Packaging Evolution
+  - **Current**: High-touch, $50-100K ACV minimum
+  - **Future**: Self-serve tiers for smaller customers
+  - **Hybrid**: Enterprise tier with white-glove service
+  
+  ### Integration Strategy
+  - **Direct API**: Primary integration method
+  - **Partner Platforms**: Alloy integration via Pipe
+  - **Embedded Finance**: Via banking partners
+  
+  ## Technical Platform Investments
+  
+  ### Cost Optimization
+  - Multi-model architecture for cost efficiency
+  - Prompt optimization system for quality at scale
+  - Infrastructure consolidation
+  
+  ### Reliability & Scale
+  - 100-case validation requirements
+  - Enhanced observability
+  - Sub-1 minute API response times
+  
+  ### AI/ML Capabilities
+  - Automated prompt improvement
+  - In-context learning implementation
+  - Model evaluation framework

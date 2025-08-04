@@ -1,0 +1,86 @@
+id: technical-challenges-learnings
+title: "Technical Challenges and Operational Learnings"
+type: insight
+tags: [technical-debt, cost-optimization, llm-costs, infrastructure, scalability]
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: high
+confidence: verified
+metadata:
+  source: investor-updates
+  period: 2024-2025
+relationships:
+  - impacts: unit-economics
+  - requires: cost-optimization
+
+content: |
+  ## LLM Cost Challenges
+  
+  ### Problem Evolution
+  - **March 2024**: Negative margins on jobs due to GPT-4 Turbo usage
+  - **April 2024**: $5K monthly OpenAI costs (up from $2.5K)
+  - **May 2024**: Reduced to $3K through optimization
+  
+  ### Cost Optimization Strategies
+  1. **Model Diversification**:
+     - Switched high-volume workloads to Anthropic Haiku (24X cheaper)
+     - Using Mistral for specific workloads
+     - Testing open-source models
+  
+  2. **Infrastructure Optimization**:
+     - Moved R&D to Azure/AWS (using $400K+ in credits)
+     - Consolidated infrastructure to reduce hosting costs
+  
+  3. **Technical Improvements**:
+     - Simplified workflows to use cost-effective LLMs
+     - Prompt refinement and backtesting infrastructure
+     - In-context learning techniques
+  
+  ## Production Incidents and Learnings
+  
+  ### Coinbase Production Issue
+  - **Impact**: Had to fix issues after going live
+  - **Root Causes**:
+    - Insufficient production testing
+    - Limited observability metrics
+    - Less strict code review for customer branches
+  - **Remediation**:
+    - Mandatory 100-case validation period
+    - Enhanced observability tooling
+    - Stricter code review requirements
+  
+  ### Integration Challenges
+  - **Pilot Delays**: Poor technical scoping caused 2-week delay
+  - **Lesson**: Need better upfront technical discovery
+  - **Customer Resource Constraints**: Multiple pilots stalled due to customer engineering resources
+  
+  ## Infrastructure and Scalability
+  
+  ### Document Processing
+  - **Enhancement**: Multimodal models for validation
+    - Logo verification on IRS letters
+    - Seal and signature checking
+    - Reduced reliance on Google OCR
+  
+  ### Prompt Management System
+  - **Challenge**: Systematic improvement without regressions
+  - **Solution**: AI-powered prompt optimization with large-scale testing
+  - **Investment**: One-off contractor expense for system build
+  
+  ## Operational Efficiency Insights
+  
+  ### Human-in-the-Loop Economics
+  - **Finding**: Not financially viable at $2/job pricing
+  - **Root Cause**: 50% of analyst time spent on coordination
+  - **Decision**: Focus on full automation vs. human augmentation
+  
+  ### Team Resource Management
+  - **Challenge**: Stretched across too many use cases
+  - **Impact**: Slower progress on core features
+  - **Strategy**: Use pilot data to focus on highest-impact use cases
+  
+  ## Key Technical Metrics
+  - **Customer Attested Accuracy**: >98%
+  - **False Positive Reduction**: 90% for AML screening
+  - **Processing Time**: Sub-1 minute for document APIs (target)
+  - **Infrastructure Burn**: ~$278K/month (including higher headcount)

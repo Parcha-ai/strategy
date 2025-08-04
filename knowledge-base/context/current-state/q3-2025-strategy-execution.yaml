@@ -1,0 +1,68 @@
+id: q3-2025-strategy-execution
+title: "Q3 2025 Strategy Execution Plan - Post Board Meeting"
+type: analysis
+tags: [strategy-execution, q3-2025, board-approved, plg-pivot, burn-reduction]
+created: '2025-08-04'
+updated: '2025-08-04'
+importance: critical
+confidence: verified
+metadata:
+  source: board-meeting-july-2025-followup
+  meeting_date: '2025-07-30'
+relationships:
+  - implements: board-q3-2025-strategic-pivot
+  - addresses: sales-funnel-breakdown-analysis
+  - enables: agent-hub-plg-strategy
+
+content: |
+  ## Three-Part Q3 Strategy
+  
+  ### 1. Go DEEP on Trust (Enterprise & Mid-Market)
+  **Target Impact**: +15-20K reviews/month
+  
+  **Key Initiatives**:
+  - Launch Compliance Trust Bundle (GDPR brief + model-governance paper + SOC 2)
+  - ACAMS Las Vegas Innovation Session + booth (Sept 16-18)
+  - Publish 3 case studies: Coinbase (anonymised), IG bake-off win, Airwallex ramp
+  - End free pilots: require $10K pilot fee or Agent Hub sandbox usage
+  - Launch in-product chat for Compliance transparency
+  
+  **Rationale**: Compliance teams are risk-averse, lack urgency, and demand high trust early. We've been engaging them too late in the sales cycle.
+  
+  ### 2. Go BROAD with Agent Hub (PLG)
+  **Target Impact**: +5K reviews/month from 50 activated signups (floor: 40 signups → 4K reviews)
+  
+  **4 Experiments** (launching weekly):
+  1. Vendor Due Diligence (Aug 12)
+  2. Real-Estate AML (Aug 19)
+  3. Investment Adviser Screening (Aug 26)
+  4. Marketplace Trust & Safety (Sep 2)
+  
+  **Success Gate**: ≥ 5 signups in 30 days per experiment
+  **Outbound**: 500-1,000 enriched leads via Clay across all tests
+  
+  ### 3. Cut Burn & Extend Runway
+  **Target**: Reduce burn from $250K → $175K/month
+  
+  **Actions**:
+  - No backfill for $175K engineer role (saves $16K/mo)
+  - Cut founder salaries 25% (saves $10K/mo)  
+  - Migrate infra to Northflank - 50% COGS reduction (saves $32.5K/mo)
+  - Reallocate Head-of-Revenue budget to content, Clay, events (saves $14.6K/mo)
+  
+  **Result**: Runway extends from 12 months → 15 months
+  
+  ## Budget Reallocation (Monthly)
+  - Content + case studies: $4.5K
+  - LinkedIn + fintech newsletters: $5.0K
+  - Clay GTM agency: $7.5K
+  - Events (ACAMS + podcasts): $6.0K
+  - **Total GTM spend**: $23K (fully offset by Head-of-Revenue savings)
+  
+  ## Success Metrics by Sept 30
+  - Monthly reviews: ≥ 50K (floor: 40K)
+  - Paid pilots: ≥ 2
+  - Agent Hub signups: 50 (floor: 40)
+  - Trust Bundle downloads: ≥ 50
+  - Burn rate: ≤ $175K/month
+  - Burn multiple: ≤ 2.0×

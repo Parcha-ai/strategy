@@ -1,0 +1,91 @@
+id: july-31-board-feedback-plg-pivot
+title: "July 31 Board Meeting - Major PLG Pivot & AI Business Analyst Positioning"
+type: insight
+tags: [board-feedback, plg-pivot, positioning, ai-business-analyst, messaging]
+created: '2025-08-04'
+updated: '2025-08-04'
+importance: critical
+confidence: verified
+metadata:
+  source: board-meeting-july-31-2025
+  meeting_date: '2025-07-31'
+  participants: [steve-kindred, brett-initialized, aj, miguel]
+relationships:
+  - revises: board-q3-2025-strategic-pivot
+  - influences: product-roadmap-2025
+  - validates: agent-hub-plg-strategy
+
+content: |
+  ## Key Strategic Shifts from Board
+  
+  ### 1. Fundamental Messaging Pivot
+  **From**: Enterprise-focused, compliance-heavy, platform messaging
+  **To**: "AI Business Analyst" for individual users
+  
+  **Board Quote**: "Current approach too enterprise-focused, over-intellectualized"
+  
+  ### 2. Business Model Change
+  - Target: $20/month SaaS model vs enterprise contracts
+  - Focus: Individual analysts and operators
+  - Distribution: Bottom-up adoption vs top-down enterprise sales
+  - Pricing: Usage-based scaling from starter plans
+  
+  ### 3. Product Positioning as "AI Business Analyst"
+  **Why This Works**:
+  - More approachable than "AI compliance platform"
+  - Speaks to the user (analyst) not the buyer (CISO)
+  - Generalizable across use cases
+  - Clear value prop: "An analyst that works for you"
+  
+  ### 4. Go-to-Market Strategy Overhaul
+  **Distribution Focus**:
+  - Meet users where they work: Slack, email, existing workflows
+  - Email forwarding system for automatic entity analysis
+  - Viral content strategy with demo videos per use case
+  - Vertical-specific landing pages and templates
+  
+  **Key Insight**: "Avoid Coinbase-style custom integrations that drain resources"
+  
+  ### 5. Competitive Differentiation
+  - **vs ChatGPT/Perplexity**: Proprietary data sources + deeper entity research
+  - **vs E2B**: More opinionated, less technical setup required
+  - **Market Signal**: GreenLight raising Series A validates compliance space
+  
+  ## Product Development Priorities
+  
+  ### Slack Integration Success
+  - Claude-powered agents already handling:
+    - Automatic signup analysis
+    - Competitive intelligence  
+    - Account management tasks
+  - Maintains compliance requirements (audit trails, governance, PDFs)
+  - Anthropic team showing strong interest
+  
+  ### Agent Hub Validation
+  - More companies tried Parcha in 2 weeks than previous 6 months
+  - Self-service onboarding now operational
+  - Process reduced from 2 months to hours
+  - Recent pilots using directly: Flagstone, MoneyGram, Sumsub
+  
+  ## Expansion Beyond Compliance
+  Board consensus on platform capabilities extending to:
+  - Vendor due diligence
+  - Sales enrichment
+  - Industry classification
+  - Background checks
+  - Startup qualification (Bridge request)
+  
+  ## Action Items from Board
+  1. Develop simplified messaging around "AI Business Analyst"
+  2. Create vertical-specific agent templates and landing pages
+  3. Build email integration for seamless adoption
+  4. Consider rebranding (Agent Factory concept mentioned)
+  5. Implement PLG tactics: drip campaigns, vertical customization
+  6. Test Slack integration with existing customers
+  
+  ## Critical Success Factors
+  - Speed to value (minutes not months)
+  - User-centric messaging (not buyer-centric)
+  - Viral, shareable use cases
+  - Bottoms-up adoption mechanics
+  - Proprietary data advantage maintained

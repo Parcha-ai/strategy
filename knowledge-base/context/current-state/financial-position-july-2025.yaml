@@ -1,0 +1,94 @@
+id: financial-position-july-2025
+title: "Financial Position and Runway Analysis - July 2025"
+type: analysis
+tags: [financials, burn-rate, runway, cost-optimization, board-metrics]
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: critical
+confidence: verified
+metadata:
+  source: board-memo-july-2025
+  as_of: July 31, 2025
+relationships:
+  - threatens: company-survival
+  - requires: immediate-action
+
+content: |
+  ## Financial Snapshot (July 2025)
+  
+  ### Revenue Metrics
+  - **ARR (Realized)**: $987,803
+  - **Contracted Not Ramped**: $454,848
+  - **Total Pipeline Value**: $5,057,510
+  - **Monthly Reviews**: 22,777 (down from 50K target)
+  
+  ### Cost Structure (Pre-Pivot)
+  - **Monthly Burn**: ~$234,742
+  - **Runway**: 13 months
+  - **Projected**: 9 months by Q3 end without changes
+  
+  ### Revenue Concentration Risk
+  - **Coinbase**: >50% of total revenue
+  - **Contract Status**: Renewal November 2025
+  - **Expansion**: $1.5M paused indefinitely
+  - **Minimum Commitment**: Not yet met
+  
+  ## Cost Reduction Plan
+  
+  ### Personnel Savings ($40.6K/month)
+  - Engineer backfill freeze: $16K
+  - Head of Revenue termination: $14.6K
+  - Founder salary cuts (25%): $10K
+  - Two engineering positions frozen: $30K (already vacant)
+  
+  ### Infrastructure Savings ($32.5K/month)
+  - Northflank migration: 50% COGS reduction
+  - Previous hosting: ~$65K/month
+  - New hosting: ~$32.5K/month
+  
+  ### Total Monthly Savings: $73.1K
+  - **New Burn Target**: $175K/month (from $250K)
+  - **New Runway**: ~15 months
+  
+  ## Revenue by Customer
+  
+  ### Closed Won ($543K ARR)
+  1. Coinbase AML: $500K
+  2. Flutterwave MCC: $5K
+  3. Bancoli: $17K
+  4. FV Bank: $20K
+  5. Airwallex: $15K
+  6. Bridge: $1K
+  
+  ### Pipeline by Stage
+  - **Negotiating Terms**: $450K (4 deals)
+  - **Live Pilot**: $315K (5 deals)
+  - **Committed to Pilot**: $880K (8 deals)
+  - **Interested**: $642K (12 deals)
+  - **Qualified Lead**: $2,770K (28 deals)
+  
+  ## Budget Reallocation (Monthly)
+  
+  ### New GTM Investments ($23K)
+  - Content + case studies: $4.5K
+  - LinkedIn + fintech newsletters: $5K
+  - Clay GTM agency: $7.5K
+  - Events (ACAMS, podcasts): $6K
+  
+  ### Sources
+  - Reallocated from Head of Revenue salary
+  - Reduced infrastructure costs
+  
+  ## Financial Risk Assessment
+  
+  ### Critical Risks
+  1. **Customer Concentration**: Single customer >50% revenue
+  2. **Pipeline Conversion**: Only 1/50+ demos converted in Q2
+  3. **Negative Unit Economics**: Still present on some workflows
+  4. **Contract Renewals**: Major renewals in Q4
+  
+  ### Mitigation Strategy
+  1. Diversify revenue through Agent Hub PLG
+  2. Reduce burn to extend runway
+  3. Focus on trust-building with compliance buyers
+  4. Implement paid pilots ($10K minimum)

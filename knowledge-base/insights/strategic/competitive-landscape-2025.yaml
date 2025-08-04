@@ -1,0 +1,72 @@
+id: competitive-landscape-2025
+title: "Competitive Landscape and Strategic Challenges"
+type: insight
+tags: [competitive-analysis, greenlite, market-positioning, sales-challenges]
+created: '2025-08-03'
+updated: '2025-08-03'
+importance: critical
+confidence: high
+metadata:
+  source: investor-updates
+  period: 2024-2025
+  created: 2025-08-03
+relationships:
+  - threatens: market-position
+  - requires: strategic-response
+
+content: |
+  ## Primary Competitor: Greenlite
+  - **Status**: Becoming a significant competitor (May 2025)
+  - **Market Presence**: Coming up in "a lot more deals than last year"
+  - **Strategic Response**: Focus on launching self-serve product to accelerate time to value/revenue/integration
+  
+  ## Lost Deals Analysis
+  
+  ### Rho Account (June 2024)
+  - **Lost To**: Accend
+  - **Reason**: Competitor had better online due diligence solution
+  - **Response**: Invested in new business due diligence report with:
+    - Enhanced integrations
+    - Improved data pipeline
+    - Better AI and product experience
+    - Social media scraping
+    - Deeper web crawling
+    - Additional sources (Crunchbase)
+  
+  ## Sales Conversion Challenges
+  
+  ### Pipeline Velocity Issues
+  - Outbound, pilots, and closing contracts moving too slowly
+  - Multiple "in progress" or "missed" goals due to pipeline delays
+  
+  ### Conversion Metrics
+  - **Demo to Scoping**: Converting ~10% (target was 20-30%)
+  - **POC to Paid**: Multiple challenges:
+    - Long enterprise sales cycles (Coinbase: POC → Pilot → Production over months)
+    - Customer priority shifts (Stripe)
+    - Resource constraints on customer side
+  
+  ### Root Causes Identified
+  1. **Insufficient Discovery**: Need more questions upfront, less demo'ing
+  2. **Follow-up Process**: Not thorough enough with regular engagement
+  3. **Self-serve Readiness**: Product requires too much customization pre-POC
+  4. **Minimum ACV Requirements**: Need $50K-$100K potential to justify hands-on approach
+  
+  ## Strategic Adjustments Made
+  
+  ### Sales Process Improvements
+  - Significantly ramped up outbound (target: 500 leads)
+  - Better qualification criteria
+  - Tighter sales process with defined outcomes per call
+  - Outsourced sales support for process management
+  
+  ### Product Strategy
+  - Building "Parcha 2.0" with self-serve onboarding
+  - MVP demo'd at Finovate (60 leads generated)
+  - Features: Agent builder flow, Stripe integration, KYC support
+  - Target launch: June 2025
+  
+  ### Go-to-Market Focus
+  - Narrowed target list to growth/enterprise fintechs
+  - Strategic banks as secondary target
+  - Account-based approach for enterprise deals
